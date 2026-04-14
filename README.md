@@ -214,17 +214,5 @@ void repeatedExample() {}
 ✔ Nested testing structure
 ✔ Repeated test execution
 
----
-
-## 🚀 Next Learning Goals
-
-* Parameterized Tests
-* Test Suites
-* Mocking with Mockito
-* Integration Testing
-* Spring Boot Testing
-
----
-
 **Author:** Saranga Samarakoon
 **Topic:** JUnit 5 Unit Testing Learning Journey
